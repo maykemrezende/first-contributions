@@ -31,6 +31,7 @@
 - [Vineet Sharma](https://github.com/Vineet-Sharma29)
 - [Nestor Alvarado](https://github.com/nVertoletik)
 - [Shaekh Jamal](https://github.com/shaekhjamal)
+- [Mayke Rezende](https://github.com/maykemrezende)
 - [Kirankumar Ambati](https://github.com/kirankumarambati)
 - [Yasir Haq](https://github.com/yasirrhaq)
 - [Martin Wilson](https://github.com/martinwjwilson)
