@@ -35,6 +35,7 @@
 - [Yasir Haq](https://github.com/yasirrhaq)
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [Ye Wai Yan](https://github.com/bupstan)
+- [Mayke Rezende](https://github.com/maykemrezende)
 - [Deepak Agarwal]
 - [Shakeel Iddrisu](https://github.com/shakeel30)
 - [Wadgma Masab] (https://github.com/Wadgma)
